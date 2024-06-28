@@ -1,15 +1,23 @@
 {
-	"geode": "3.1.1",
-	"gd": {
-		"win": "2.206"
-	},
-	"version": "v0.6.9",
-	"id": "zalphalaneous.minecraft",
-	"name": "Minecraftify!",
-	"developer": "Alphalaneous",
-	"description": "Makes GD turn into Minecraft",
+  "geode": "3.1.1",
+  "gd": {
+    "win": "2.206"
+  },
+  "version": "v0.6.9",
+  "id": "zalphalaneous.minecraft",
+  "name": "Minecraftify!",
+  "developer": "Alphalaneous",
+  "description": "Makes GD turn into Minecraft",
   "early-load": true,
-
+  "repository": "https://github.com/Alphalaneous/Minecraftify",
+  "links": {
+    "community": "https://discord.com/invite/Txn2CA5dHF",
+    "source": "https://github.com/Alphalaneous/Minecraftify"
+  },
+  "issues" : {
+    "info": "GitHub Issues",
+    "url": "https://github.com/Alphalaneous/Minecraftify/issues"
+  },
   "resources": {
     "files": [
       "assets/sounds/*",
